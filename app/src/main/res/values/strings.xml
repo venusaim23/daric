@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Daric</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Professional Fragment</string>
+    <string name="second_fragment_label">Personal Fragment</string>
+
+    <string name="add_a_diary">Add a diary</string>
+    <string name="tab_text_1">Professional</string>
+    <string name="tab_text_2">Personal</string>
+    <string name="empty_diary">Your diary is empty\nTry writing some notes</string>
+    <string name="add_a_note">Add a note</string>
+    <string name="write_about_your_task">Write about your task…</string>
+    <string name="add_a_tag">Add a tag</string>
+    <string name="add_note">Add note</string>
+    <string name="cancel">Cancel</string>
+    <string name="title">Title</string>
+    <string name="bookmark_button">Bookmark button</string>
+    <string name="separator">Separator</string>
+    <string name="sample_date">Dec 14, 2021 23:57</string>
+    <string name="note_content">Note content</string>
+
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>
